@@ -1,5 +1,7 @@
 # README
 
+Tic Tac Toe using rails and P5.js.  Game ahs a leader board that tracks and persists each user's scores.
+
 
 * Ruby version 2.6.3
 
